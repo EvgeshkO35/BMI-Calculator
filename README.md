@@ -1,7 +1,7 @@
 # BMI-Calculator
 Advanced Swift Programming - Classes, Inheritance and Advanced Optionals
 
-## What you will learn
+## What I learned in this module
 
 * How to create multi-screen apps with animated navigation.
 * Optional binding, optional chaining and the nil coalescing operator.
